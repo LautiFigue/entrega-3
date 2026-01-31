@@ -1,0 +1,80 @@
+/* Fondo */
+@media (max-width: 600px) {
+    body {
+        background-image: none;
+        background-color: gray;
+    }
+}
+
+@media (max-width: 768px) {
+
+/* Contenedor H1 */
+.contenedor-h1 {
+    height: 500px;
+}
+
+h1 {
+    font-size: 2rem;
+    letter-spacing: 2px;
+    padding: 8px;
+}
+
+/* Body */
+body {
+    font-size: 20px;
+}
+
+/* Contenedor lema */
+.contenedor-lema p {
+    font-size: 45px;
+}
+
+  /* Footer */
+footer {
+    font-size: 22px;
+}
+
+.copyright {
+    margin-top: 50px;
+    letter-spacing: 5px;
+}
+
+.nav-inferior {
+    font-size: 18px;
+    letter-spacing: 4px;
+    margin-top: 50px;
+}
+
+/* Galería */
+.fotos img {
+    height: 300px;
+}
+
+.contenedor-h3 h3 {
+    font-size: 28px;
+}
+
+.contenedor-h3 p {
+    font-size: 18px;
+}
+
+/* Sobre Nosotros */
+.contenedor-h2 {
+    height: 250px;
+    padding: 15px;
+}
+
+.parrafo {
+    font-size: 22px;
+    padding: 25px;
+}
+
+.seccion-info ul {
+    padding: 40px;
+}
+
+.seccion-info li {
+    font-size: 22px;
+    margin: 20px;
+}
+}
