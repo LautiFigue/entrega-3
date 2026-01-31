@@ -10,7 +10,7 @@
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  background-image: url(../../img/General/fondo-h1.jpg);
+  background-image: url(../img/General/fondo-h1.jpg);
   height: 750px;
   background-size: cover;
   background-position: center;
@@ -51,14 +51,14 @@ h1 {
 body {
   font-size: 30px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-image: url(../../img/General/fondo-body.gif);
+  background-image: url(../img/General/fondo-body.gif);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 footer {
-  background-image: url(../../img/General/fondo-footer.jpg);
+  background-image: url(../img/General/fondo-footer.jpg);
   background-size: cover;
   background-position: center 57%;
   background-repeat: no-repeat;
@@ -254,27 +254,27 @@ footer {
 }
 
 .contenedor-h2#inicios {
-  background-image: url(../../img/Sobre-nosotros/enzo-ferrari.jpg);
+  background-image: url(../img/Sobre-nosotros/enzo-ferrari.jpg);
   background-position: center 20%;
 }
 
 .contenedor-h2#maranello {
-  background-image: url(../../img/Sobre-nosotros/maranelloh2.avif);
+  background-image: url(../img/Sobre-nosotros/maranelloh2.avif);
   background-position: 20%;
 }
 
 .contenedor-h2#autos {
-  background-image: url(../../img/Sobre-nosotros/autos-h2.jpeg);
+  background-image: url(../img/Sobre-nosotros/autos-h2.jpeg);
   background-position: 20%;
 }
 
 .contenedor-h2#nacimiento {
-  background-image: url(../../img/Sobre-nosotros/125s-h2.avif);
+  background-image: url(../img/Sobre-nosotros/125s-h2.avif);
   background-position: 20%;
 }
 
 .contenedor-h2#valores {
-  background-image: url(../../img/Sobre-nosotros/valores-h2.jpg);
+  background-image: url(../img/Sobre-nosotros/valores-h2.jpg);
   background-position: 20%;
 }
 
